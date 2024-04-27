@@ -1,0 +1,39 @@
+[
+    {
+        "src": "images/dummy-1.jpg",
+        "description": "Description of Image 1"
+    },
+    {
+        "src": "images/dummy-1.jpg",
+        
+        "description": "Description of Image 2"
+    },
+    {
+        "src": "image3.jpg",
+        "description": "Description of Image 3"
+    },
+    {
+        "src": "image4.jpg",
+        "description": "Description of Image 4"
+    },
+    {
+        "src": "image5.jpg",
+        "description": "Description of Image 5"
+    },
+    {
+        "src": "image6.jpg",
+        "description": "Description of Image 6"
+    },
+    {
+        "src": "image7.jpg",
+        "description": "Description of Image 7"
+    },
+    {
+        "src": "image8.jpg",
+        "description": "Description of Image 8"
+    },
+    {
+        "src": "image9.jpg",
+        "description": "Description of Image 9"
+    }
+]
