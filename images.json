@@ -1,39 +1,39 @@
 [
     {
-        "src": "images/dummy-1.jpg",
-        "description": "Description of Image 1"
+        "src": "images/b1.jpeg",
+        "description": "UI/UX"
     },
     {
-        "src": "images/dummy-1.jpg",
+        "src": "images/b2.jpeg",
         
-        "description": "Description of Image 2"
+        "description": "UI/UX"
     },
     {
-        "src": "image3.jpg",
-        "description": "Description of Image 3"
+        "src": "images/b3.jpeg",
+        "description": "UI/UX"
     },
     {
-        "src": "image4.jpg",
-        "description": "Description of Image 4"
+        "src": "images/d5.jpeg",
+        "description": "Web development"
     },
     {
-        "src": "image5.jpg",
-        "description": "Description of Image 5"
+        "src": "images/d6.jpeg",
+        "description": "Web development"
     },
     {
-        "src": "image6.jpg",
-        "description": "Description of Image 6"
+        "src": "images/d7.jpeg",
+        "description": "Web development"
     },
     {
-        "src": "image7.jpg",
-        "description": "Description of Image 7"
+        "src": "images/a1.jpeg",
+        "description": "App Development"
     },
     {
-        "src": "image8.jpg",
-        "description": "Description of Image 8"
+        "src": "images/a2.jpeg",
+        "description": "App Development"
     },
     {
-        "src": "image9.jpg",
-        "description": "Description of Image 9"
+        "src": "images/a3.jpeg",
+        "description": "App Development"
     }
 ]
